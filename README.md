@@ -8,4 +8,8 @@ Cara pake :
 - import database
 - jalankan
 
-![alt text](https://prnt.sc/spr7qn)
+Berikut tampilan webnya :
+
+![ci-apps](https://user-images.githubusercontent.com/66056260/83211319-fe28d580-a186-11ea-8ddc-c1f54c8864f9.png)
+
+![ci-apps2](https://user-images.githubusercontent.com/66056260/83211322-ff5a0280-a186-11ea-9a47-3ed3595c08ed.png)
