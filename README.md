@@ -8,3 +8,4 @@ Cara pake :
 - import database
 - jalankan
 
+![alt text](https://prnt.sc/spr7qn)
